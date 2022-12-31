@@ -4,7 +4,6 @@ import {
   Box,
   styled,
   Table,
-  TableRow,
   TableCell,
 } from "@mui/material";
 import { LocalOffer as Badge } from "@mui/icons-material";
